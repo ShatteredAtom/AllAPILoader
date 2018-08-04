@@ -5,6 +5,7 @@ namespace OhhhAlex\AllAPILoader;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\PluginLoadOrder;
+use pocketmine\plugin\PluginLoader;
 use OhhhAlex\AllAPILoader\Loaders\AllFolderPluginLoader;
 use OhhhAlex\AllAPILoader\Loaders\AllPharPluginLoader;
 use OhhhAlex\AllAPILoader\Loaders\AllScriptPluginLoader;
