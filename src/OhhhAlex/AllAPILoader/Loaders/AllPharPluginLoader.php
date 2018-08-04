@@ -2,6 +2,7 @@
 
 namespace OhhhAlex\AllAPILoader\Loaders;
 
+use pocketmine\plugin\PluginLoader
 use pocketmine\plugin\PharPluginLoader;
 use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginDescription;
